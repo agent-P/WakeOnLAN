@@ -21,7 +21,7 @@ Building WakeOnLAN
 ------------------
 [Xcode](https://developer.apple.com/xcode/) is recommended for development as the project settings are preconfigured for Mac OS X 10.7.x (Lion).
 
-1. Note this project has a dependency on wol\_lib  - https://github.com/agent-P/wol\_lib. The current project settings require library file "libwol_lib.a" to be in the project root for the build to complete successfully.
+1. Note this project has a dependency on [wol\_lib](https://github.com/agent-P/wol_lib). The current project settings require library file "libwol_lib.a" to be in the project root for the build to complete successfully.
 2. Clone this repository to a Mac running OS X 10.7.x or later.<br/>
 3. Open the provided Xcode project with Xcode 4.5.2 or later. Double-click on the provided project.<br/>
 4. Build the project.
