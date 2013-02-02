@@ -1,7 +1,7 @@
 WakeOnLAN
 =========
 
-![wol screenshot](https://github.com/agent-P/WakeOnLAN/master/docs/wol-main-display.png)
+![wol screenshot](https://github.com/agent-P/WakeOnLAN/raw/master/docs/wol-main-display.png)
 
 Mac OS X utility application to find nodes on a LAN based on their advertised serivices, display their awake status, and send a "magic packet" to wake up nodes configured for wake on LAN.
 
